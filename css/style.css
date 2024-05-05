@@ -102,6 +102,13 @@ body {
   padding: 0 5px;
 }
 
+.subtitle {
+  margin: 20px;
+  text-align: center;
+  font-size: 10pt;
+}
+
+
 .source {
   font-size: 9pt;
   font-style: italic;
